@@ -1,16 +1,16 @@
 {
-  "name": "cy-hover-example",
+  "name": "cypressmc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "7.1.0",
-    "cypress-real-events": "1.3.0"
+    "cypress": "7.1.0"
   }
 }

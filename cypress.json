@@ -2,6 +2,13 @@
   "fixturesFolder": false,
   "supportFile": false,
   "pluginsFile": false,
-  "viewportHeight": 300,
-  "viewportWidth": 300
+  "viewportWidth": 1800,
+  "viewportHeight": 1260,
+  "chromeWebSecurity": false,
+  "env": {
+    "domain": "https://www.mercadolibre.com.pe/",
+    "email": "freedemou@gmail.com",
+    "password": "123456789",
+    "waitTime": 3000
+  }
 }
